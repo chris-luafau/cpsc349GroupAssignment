@@ -1,0 +1,40 @@
+
+
+article{
+  font-family: verdana;
+  background-color: #e3c38d;
+}
+
+header{
+  background-color: #d86c4e;
+  font-style: bold;
+}
+
+
+.navigation{
+background-color: #79c4b8;
+}
+.links{
+  background-color: #2e5778;
+  color: white;
+  font-style: italic;
+}
+
+footer {
+  background-color: #993114;
+  color: white;
+}
+
+h1
+{
+  font-size: 40px;
+ text-align: center;
+}
+
+body{
+  background-color: #e9cfa9;
+}
+
+A{
+  color: black;
+}
